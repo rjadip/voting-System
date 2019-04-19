@@ -1,0 +1,116 @@
+
+body
+{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	background:  url(../image/untarback.jpg) no-repeat;
+    background-size: cover;
+    top: 0;    
+}
+	
+#utama
+{
+	width: 450px;
+	margin: 12% auto;
+
+}
+	
+#headeruno
+{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight:600;
+	padding: 10px;
+	border-style:ridge;
+	text-align: right;
+	color: #FFFFFF;
+	background-color: #5FBCFF;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 0px;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 0px;
+	border-bottom:ridge 3px #606060;	
+}
+
+
+
+		
+#inputan
+{
+	background-color: #ccc;
+	padding: 20px;
+	border-radius: 10px;
+	height: 200px;
+	text-align: center;
+}
+
+input
+{
+	padding: 10px;
+	border: 0;
+}
+
+.textfield
+{
+	width: 305px; 
+	height: 30px;
+ 	border-radius: 10px;
+ }
+
+
+.button
+{
+	background-color: #259E2B;
+	border-radius: 10px;
+	color: #fff;
+	 width: 325px;
+	height: 50px;
+	padding:10px;
+}
+
+/*
+.button
+{
+	background-color: #339966;
+	border-radius: 20px;
+	color: #fff;
+	width:100px;
+}
+*/
+
+.button:hover
+{
+	background-color: #336666;
+	cursor:pointer;
+}
+	
+.hias
+{
+	align-self:center;
+	background-color: #339966;
+	border-radius: 0px;
+	width: 700px;
+}
+
+.btn-right
+{
+	padding:8px;
+	text-decoration:none;
+	border-radius:3px;
+	color:#fff;
+	text-align:right;
+}
+
+.cr
+{
+	color:#535353
+}
+
+.webmaster
+{
+	padding:2px;
+	text-decoration:none;
+	border-radius:3px;
+	color:#535353;
+	text-align:right;
+}
+
